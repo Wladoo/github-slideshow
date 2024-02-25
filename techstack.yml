@@ -1,0 +1,118 @@
+repo_name: Wladoo/github-slideshow
+report_id: abcd08416ceb3aca23b53eb9ac25c8e2
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-25T10:26:29+00:00'
+requested_by: crichID
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Wladoo/github-slideshow/blob/master/assets/js/jquery-1.11.1.min.js
+  detection_source: assets/js/jquery-1.11.1.min.js
+  last_updated_by: githubteacher
+  last_updated_on: 2018-01-23 16:34:15.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Wladoo/github-slideshow/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: githubteacher
+  last_updated_on: 2018-01-23 16:34:15.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow
+  detection_source: Repo Metadata
+- name: github-pages
+  description: Bootstrap the GitHub Pages Jekyll environment locally
+  package_url: https://rubygems.org/github-pages
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: githubteacher
+  last_updated_on: 2018-10-12 08:33:26.000000000 Z
+- name: html-proofer
+  description: Test your rendered HTML files to make sure they're accurate
+  package_url: https://rubygems.org/html-proofer
+  version: 3.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19495/default_8a79db3626c57c6bb46227c448ffd01861613398.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Cynthia Rich
+  last_updated_on: 2019-08-14 01:31:12.000000000 Z
+- name: tzinfo-data
+  description: TZInfo::Data contains data from the IANA Time Zone database packaged
+    as Ruby modules for use with TZInfo
+  package_url: https://rubygems.org/tzinfo-data
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/Wladoo/github-slideshow/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: githubteacher
+  last_updated_on: 2018-01-23 16:34:15.000000000 Z
